@@ -1,5 +1,15 @@
 # Smart Traffic Light Controller
 
+## Project Preview
+
+### Circuit Diagram
+
+![Circuit Diagram](images/two-way-traffic-light-circuit.png)
+
+### Simulation Demo
+
+https://github.com/gautamharshika1-svg/Smart-Traffic-Light-Controller/blob/main/images/simulation%20two%20way%20traffic%20light%20system.mp4
+
 ## Overview
 
 This project implements a two-way intelligent traffic light control system using Arduino Uno. The system automates traffic signal sequencing and displays a real-time countdown timer on a 7-segment display, simulating an embedded traffic management solution.
@@ -27,6 +37,17 @@ This project implements a two-way intelligent traffic light control system using
 - Jumper Wires
 
 ---
+
+## Technologies Used
+
+- Arduino Uno
+- Embedded C/C++
+- Tinkercad
+- Digital Electronics
+- Breadboard Prototyping
+- 7-Segment Display
+
+  ---
 
 ## Working Principle
 
@@ -67,4 +88,32 @@ This project implements a two-way intelligent traffic light control system using
 - Pedestrian crossing button
 - IoT-based remote monitoring
 - Adaptive signal timing using AI
+
+---
+## Skills Gained
+
+- Embedded C Programming
+- Arduino Programming
+- Digital Logic Design
+- Hardware Interfacing
+- Circuit Design
+- Breadboard Prototyping
+- Debugging Embedded Systems
+
+  ---
+
+## Repository Structure
+
+```text
+Smart-Traffic-Light-Controller
+│
+├── code
+│   └── traffic_light_controller.ino
+│
+├── images
+│   ├── two-way-traffic-light-circuit.png
+│   └── simulation-two-way-traffic-light.mp4
+│
+└── README.md
+
 
