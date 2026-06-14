@@ -2,6 +2,12 @@
 
 ## Project Preview
 
+![Arduino](https://img.shields.io/badge/Arduino-Uno-blue)
+
+![Language](https://img.shields.io/badge/Language-C%2B%2B-orange)
+
+![Simulation](https://img.shields.io/badge/Simulation-Tinkercad-green)
+
 ### Circuit Diagram
 
 ![Circuit Diagram](images/two-way-traffic-light-circuit.png)
