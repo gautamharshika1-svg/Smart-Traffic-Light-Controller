@@ -123,5 +123,5 @@ Smart-Traffic-Light-Controller
 │
 ├── README.md
 └── LICENSE
-```
+
 
