@@ -14,7 +14,7 @@
 
 ### Simulation Demo
 
-https://github.com/gautamharshika1-svg/Smart-Traffic-Light-Controller/blob/main/images/simulation%20two%20way%20traffic%20light%20system.mp4
+![Simulation Demo](images/simulation.gif)
 
 ## Overview
 
