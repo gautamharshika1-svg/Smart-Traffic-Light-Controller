@@ -10,7 +10,7 @@
 
 ### Circuit Diagram
 
-![Circuit Diagram](images/two-way-traffic-light-circuit.png)
+![Circuit Diagram](images/circuit two way traffic light system.png)
 
 ### Simulation Demo
 
