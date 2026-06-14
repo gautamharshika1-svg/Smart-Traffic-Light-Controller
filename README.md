@@ -117,9 +117,11 @@ Smart-Traffic-Light-Controller
 │   └── traffic_light_controller.ino
 │
 ├── images
-│   ├── two-way-traffic-light-circuit.png
-│   └── simulation-two-way-traffic-light.mp4
+│   ├── circuit-diagram.png
+│   ├── simulation.gif
+│   └── simulation.mp4
 │
-└── README.md
-
+├── README.md
+└── LICENSE
+```
 
